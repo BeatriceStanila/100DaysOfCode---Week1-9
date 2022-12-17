@@ -1,4 +1,4 @@
-My first partner ever in the bootcamp is Kiane Gucher-Blackman!
+My first partner ever in the bootcamp - Kiane! We had such a blast!
 
 ✅ Introduction to computational thinking
 
