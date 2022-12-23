@@ -19,3 +19,8 @@ Javascript is a synchronous single-threaded language but with the help of event-
 🔸 it is often used to schedule the execution of code that needs to be delayed for some reason, such as to give a user time to read a message before it disappears, or to load data from a server before displaying it on a page.
 
 🔸is non-blocking, which means that the code following the setTimeout call will be executed immediately, even if the timeout period has not yet elapsed
+
+✅ workshop: Kayne West quotes API
+
+🔸 made different sorts of HTTP requests (e.g. GET, POST, PUT, PATCH, DELETE)
+🔸 used the fulfilled/resolved value of a promise with async/await syntax
