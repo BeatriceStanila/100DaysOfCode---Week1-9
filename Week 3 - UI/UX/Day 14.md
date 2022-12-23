@@ -14,7 +14,7 @@
 
 🔸 TEST - try your solutions out
 
-<img src="https://media.nngroup.com/media/editor/2016/07/25/designthinking_illustration_final2-02.png">
+<img src="https://cdn2.hubspot.net/hubfs/2990765/dt-copy.jpg">
 
 ✅ USER STORY is a short, specific and goal oriented
 
