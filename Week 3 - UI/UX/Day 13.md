@@ -18,6 +18,8 @@
 
 🔸 Responding to change over following a plan
 
+<img src="https://a.storyblok.com/f/86602/720x375/34aa6d2d28/methodology-four-core-values.jpg/m/">
+
 ✅ AGILE: the goal
 
 🔸develop iteratively: a way of breaking down the software development of a large application into smaller chunks

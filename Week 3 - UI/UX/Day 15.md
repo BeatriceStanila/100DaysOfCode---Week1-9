@@ -4,6 +4,8 @@
 
 🔸is a schematic or blueprint that is useful for helping us think and communicate about the structure of the software or website you're building
 
+<img src="https://balsamiq.com/assets/learn/articles/mobile-web.png" width=400>
+
 ✅ CSS specificity
 
 🔸 if there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win", and its style declaration will be applied to that HTML element.
