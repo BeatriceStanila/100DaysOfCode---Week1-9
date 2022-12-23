@@ -11,8 +11,11 @@
 ✅ AGILE: the 4 core values
 
 🔸 Individuals and interactions over precesses and tools
+
 🔸 Working software over comprehensive documentation
+
 🔸 Customer collaboration over contract negotiation
+
 🔸 Responding to change over following a plan
 
 ✅ AGILE: the goal
