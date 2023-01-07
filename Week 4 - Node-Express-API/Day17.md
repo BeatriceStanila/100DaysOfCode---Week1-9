@@ -37,6 +37,6 @@ New Partner: Milly ☺️
 
 - code that runs (on the server) between getting a request and sending a response
 
-<img src="./Screenshots/Nodejs test.png">
+<img src="../Screenshots/Nodejs test.png">
 
-<img src="./Screenshots/Nodejs test1.png"">
+<img src="../Screenshots/Nodejs test1.png">

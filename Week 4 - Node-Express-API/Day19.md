@@ -10,7 +10,7 @@
   - the database stores and helps the user retrieve information
   - the user interface helps users interact with the app
 
-<img src="./Screenshots/crud-operations.jpg">
+<img src="../Screenshots/crud-operations.jpg">
 
 ✅ used CRUD and Express to create the backend REST API for a quotes app that shows, adds, modifies and deletes quotes
 
