@@ -37,6 +37,6 @@ New Partner: Milly ☺️
 
 - code that runs (on the server) between getting a request and sending a response
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd940dd62-e805-491e-829f-1761b18872ff%2FUntitled.png?id=240103ba-e80b-4a57-8757-1ce95ab072e6&table=block&spaceId=23cf52de-0266-427e-b71e-458676b2f50c&width=1550&userId=bd705f14-62db-4eae-80bb-97a8662b10c5&cache=v2">
+<img src="./Screenshots/Nodejs test.png">
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F802bd71e-bde1-465d-a28d-7ca78f2a8afb%2FUntitled.png?id=f76f9a5d-f48f-4e71-aba1-a81fca5d89e9&table=block&spaceId=23cf52de-0266-427e-b71e-458676b2f50c&width=1550&userId=bd705f14-62db-4eae-80bb-97a8662b10c5&cache=v2">
+<img src="./Screenshots/Nodejs test1.png"">
