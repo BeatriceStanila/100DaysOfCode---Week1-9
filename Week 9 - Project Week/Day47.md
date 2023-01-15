@@ -2,7 +2,7 @@ New Team: Tariq, Jason and Damian
 
 ## Team HakunaMatata - Flash it!
 
---- Our goal is to create an question/answer app that bootcampers can use to prepare for future interviews ---
+--- Our goal is to create a question/answer app that bootcampers can use to prepare for future interviews ---
 
 ✅ using what we've learned on the course so far to try and improve the lives of our users (bootcampers)
 
@@ -13,8 +13,6 @@ New Team: Tariq, Jason and Damian
 ✅ first we created our manifesto board
 
 <img src="../Screenshots/flashManifesto.jpg"/>
-
-Project Week - FlashCards App-
 
 ✅ spent some time thinking about problems and how to solve them by moving each idea through the dreamer, realist and critic Disney ideation rooms
 
