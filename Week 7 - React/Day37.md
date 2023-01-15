@@ -4,6 +4,10 @@
 
 - Smart components (or container components) on the other hand have a different responsibility. Because they have the burden of being smart, they are the ones that keep track of state and care about how the app works.
 
+<img src="../Screenshots/compSmartDumb.png">
+
+<img src="../Screenshots/compSmartDumb1.png">
+
 ✅ useState () Hook
 
 - a Hook is a special function that lets you “hook into” React features
